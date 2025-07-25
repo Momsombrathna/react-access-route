@@ -1,6 +1,6 @@
 {
   "name": "react-access-route",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React library for managing access control in routes",
   "type": "module",
   "main": "dist/index.js",
