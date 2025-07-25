@@ -26,6 +26,10 @@
     "provider"
   ],
   "author": "MOM Sombrathna",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Momsombrathna/react-access-route.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^30.0.0",
