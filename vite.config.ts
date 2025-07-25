@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     lib: {
-      entry: path.resolve(__dirname, "index.ts"), // ✅ Your library entry point
+      entry: path.resolve(__dirname, "./src/index.ts"), // ✅ Your library entry point
       name: "ReactAccessRoute",
       fileName: (format) => `react-access-route.${format}.js`,
     },

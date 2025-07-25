@@ -17,6 +17,14 @@ or
 yarn add react-access-route
 ```
 
+## Features
+
+- **Role-based access control**: Define roles and permissions for users.
+- **Context provider**: Wrap your application with the `AccessProvider` to provide access control context.
+- **Custom hooks**: Use the `useAccess` hook to check permissions in your components.
+- **Guard components**: Use the `Guard` component to conditionally render content based on user permissions.
+- **TypeScript support**: Fully typed with TypeScript for better development experience.
+
 ## Usage
 
 1. **Wrap your application with the `AccessProvider`**:
