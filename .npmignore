@@ -1,16 +1,3 @@
-# Build artifacts
-dist/
-# Development environment files
-.vscode/
-
 # Development files
 node_modules/
-.vscode/
-.idea/
-.git/
-.github/
 
-# System files
-.DS_Store
-# Test files
-.vscode-test/
