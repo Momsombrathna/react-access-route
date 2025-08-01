@@ -132,10 +132,6 @@ npm run build
 
 This will compile the TypeScript files and create a `dist` directory with the built files.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or have a feature request.
